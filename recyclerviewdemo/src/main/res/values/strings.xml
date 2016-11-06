@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">recyclerViewDemo</string>
+    <string name="btn_linear">Linear</string>
+    <string name="btn_grid">Grid</string>
+    <string name="btn_stagger">Stagger</string>
+    <string name="btn_remove_data">remove</string>
+    <string name="btn_add_data">add</string>
+
+</resources>
