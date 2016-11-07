@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MulThreadDown</string>
+    <string name="btn_down">下载</string>
+</resources>
